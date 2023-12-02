@@ -1,0 +1,33 @@
+@font-face {
+    font-family:waxfont;
+    src: url(ScrewyMeltedWax.ttf);
+    
+}
+
+html {
+    background: purple;
+    background-image: url(rainbowswirl.jpeg);
+    cursor: url(https://cur.cursors-4u.net/nature/nat-7/nat665.cur);
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 600px;
+    width: auto
+}
+
+h1 {
+    font-family: waxfont;
+    font-size: 50px;
+    
+}
+
+
+h2 {
+    font-family: waxfont;
+    font-size: 50px;
+}
+
